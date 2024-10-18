@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\bin\Debug\net8.0\TheThingNamer3000.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\bin\Debug\net8.0\TheThingNamer3000.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\bin\Debug\net8.0\TheThingNamer3000.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\bin\Debug\net8.0\TheThingNamer3000.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\bin\Debug\net8.0\TheThingNamer3000.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\refint\TheThingNamer3000.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\TheThingNamer3000.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheThingNamer3000\obj\Debug\net8.0\ref\TheThingNamer3000.dll

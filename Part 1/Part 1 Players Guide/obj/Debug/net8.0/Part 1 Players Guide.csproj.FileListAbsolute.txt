@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Part 1 Players Guide.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Part 1 Players Guide.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Part 1 Players Guide.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Part 1 Players Guide.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Part 1 Players Guide.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\refint\Part 1 Players Guide.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Part 1 Players Guide.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\ref\Part 1 Players Guide.dll

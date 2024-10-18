@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\bin\Debug\net8.0\TheFourSistersAndTheDucksbear.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\bin\Debug\net8.0\TheFourSistersAndTheDucksbear.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\bin\Debug\net8.0\TheFourSistersAndTheDucksbear.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\bin\Debug\net8.0\TheFourSistersAndTheDucksbear.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\bin\Debug\net8.0\TheFourSistersAndTheDucksbear.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\refint\TheFourSistersAndTheDucksbear.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\TheFourSistersAndTheDucksbear.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheFourSistersAndTheDucksbear\obj\Debug\net8.0\ref\TheFourSistersAndTheDucksbear.dll

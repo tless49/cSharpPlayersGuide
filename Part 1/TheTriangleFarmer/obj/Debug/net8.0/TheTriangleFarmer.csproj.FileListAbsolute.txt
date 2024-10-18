@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\refint\TheTriangleFarmer.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheTriangleFarmer\obj\Debug\net8.0\ref\TheTriangleFarmer.dll

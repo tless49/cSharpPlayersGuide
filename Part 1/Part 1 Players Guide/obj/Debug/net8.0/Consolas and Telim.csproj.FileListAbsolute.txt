@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Consolas and Telim.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Consolas and Telim.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Consolas and Telim.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Consolas and Telim.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\bin\Debug\net8.0\Consolas and Telim.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\refint\Consolas and Telim.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\Consolas and Telim.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\Part 1 Players Guide\obj\Debug\net8.0\ref\Consolas and Telim.dll

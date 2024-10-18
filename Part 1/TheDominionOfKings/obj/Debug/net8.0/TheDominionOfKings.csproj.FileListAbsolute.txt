@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll

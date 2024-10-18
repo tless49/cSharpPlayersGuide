@@ -1,0 +1,14 @@
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.exe
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.deps.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.runtimeconfig.json
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfoInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfo.cs
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\refint\TheMagicCannon.dll
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.pdb
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.genruntimeconfig.cache
+D:\Learning Practice\Csharp Players Guide\Part 1\TheMagicCannon\obj\Debug\net8.0\ref\TheMagicCannon.dll
