@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimulasSoup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1b87c8fc65598ebce9ae0f1bb11e92bc2a9ee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimulasSoup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimulasSoup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

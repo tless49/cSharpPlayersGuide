@@ -1,0 +1,15 @@
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\bin\Debug\net8.0\SimulasSoup.exe
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\bin\Debug\net8.0\SimulasSoup.deps.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\bin\Debug\net8.0\SimulasSoup.runtimeconfig.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\bin\Debug\net8.0\SimulasSoup.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\bin\Debug\net8.0\SimulasSoup.pdb
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfoInputs.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfo.cs
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.csproj.CoreCompileInputs.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.sourcelink.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\refint\SimulasSoup.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.pdb
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\SimulasSoup.genruntimeconfig.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\SimulasSoup\obj\Debug\net8.0\ref\SimulasSoup.dll
