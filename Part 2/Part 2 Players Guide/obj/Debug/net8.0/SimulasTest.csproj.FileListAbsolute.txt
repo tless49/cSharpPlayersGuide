@@ -1,0 +1,15 @@
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\bin\Debug\net8.0\SimulasTest.exe
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\bin\Debug\net8.0\SimulasTest.deps.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\bin\Debug\net8.0\SimulasTest.runtimeconfig.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\bin\Debug\net8.0\SimulasTest.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\bin\Debug\net8.0\SimulasTest.pdb
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.AssemblyInfoInputs.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.AssemblyInfo.cs
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.csproj.CoreCompileInputs.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.sourcelink.json
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\refint\SimulasTest.dll
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.pdb
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\SimulasTest.genruntimeconfig.cache
+D:\Learning Practice\cSharpPlayersGuide\Part 2\Part 2 Players Guide\obj\Debug\net8.0\ref\SimulasTest.dll
